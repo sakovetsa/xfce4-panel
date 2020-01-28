@@ -181,6 +181,7 @@ static const gchar *digital_formats[] =
   "%T",
   "%r",
   "%I:%M %p",
+  "%a %d %b, %T",
   "%_H:%M",
   NULL
 };
